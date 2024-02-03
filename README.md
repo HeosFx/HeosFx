@@ -1,4 +1,5 @@
-### Hi there 👋
+![HeosFx's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeosFx&count_private=true&show_icons=true&theme=yeblu&include_all_commits=true)
+![Image](https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/68/Dancing_Blue_Parrot.gif?width=50&height=50)
 
 <!--
 **HeosFx/HeosFx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
