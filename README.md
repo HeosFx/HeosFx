@@ -1,4 +1,6 @@
-AI Engineer | Computer Vision & Deep Learning | Multidisciplinary Research
+**AI Engineer | Computer Vision & Deep Learning | Multidisciplinary Research**
+
+
 I develop intelligent systems that bridge experimental research and real-world applications, with experience in computer vision, deep learning, and large language models. My projects span AI for historical manuscript transcription and applied, field-oriented systems, including adaptive, learning-based solutions.
 
 <!--
