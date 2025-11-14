@@ -36,7 +36,7 @@ Feel free to reach out if you’d like to connect or collaborate!
 ![WebXR](https://img.shields.io/badge/WebXR-%23FF6600.svg?style=for-the-badge&logo=webxr&logoColor=white)
 
 ### Vision:
-![OpenGL](https://img.shields.io/badge/OpenGL-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C8AA8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 
 <!--
